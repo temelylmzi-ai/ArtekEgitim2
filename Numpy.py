@@ -62,5 +62,3 @@ print("***********************")
 
 d = np.ones([2,5], dtype=np.uint8)
 print(d)
-
-
